@@ -1,4 +1,4 @@
-# Viplus Token
+# Viplus Token (VPL)
 
 ![Viplus Token](https://viplus.org/default/template/custom/img/logo_new.png)
 
